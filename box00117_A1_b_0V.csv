@@ -1,6 +1,4 @@
-,Spectra196 1
-Wavelength,External Quantum Efficiency
-(nm),(%)
+Wavelength (nm),External Quantum Efficiency (%)
 300,0.4319319515802998
 305,0.47608916467938694
 310,0.4700472384375687
