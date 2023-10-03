@@ -240,37 +240,3 @@ Wavelength (nm),External Quantum Efficiency (%)
 1490,0.1278496686503067
 1495,0.09234865229311001
 1500,0.08871176967395113
-,
-COLORIMETRY,
-x,0.4025
-y,0.4064
-z,0.1911
-X,38.1215
-Y,38.4863
-Z,18.0951
-u,0.2277
-v,0.3448
-u',0.2277
-v',0.5172
-Dominant Wavelength / nm,579
-Purity / %,46.5
-Colour Temperature / K,3681.5
-Ra,94
-R1,93.1
-R2,93.7
-R3,94.6
-R4,94.5
-R5,92.1
-R6,90.9
-R7,98.5
-R8,94.6
-R9,82.4
-R10,85.3
-R11,92.1
-R12,83.4
-R13,92.6
-R14,97
-Region,None
-,
-MEASUREMENTS,
-Jsc / mA cm-2,27.745*
