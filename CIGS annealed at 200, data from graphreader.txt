@@ -1,4 +1,4 @@
-Wavelength (nm), 
+Wavelength (nm),External Quantum Efficiency (%)
 340,76.891
 341,115.156
 342,153.42
